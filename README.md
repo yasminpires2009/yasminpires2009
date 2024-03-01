@@ -1,16 +1,14 @@
-### Hi there 👋
+###Olha esse é meu perfil, seja bem vindo ao mundo da Yasmin Pires
 
-<!--
-**yasminpires2009/yasminpires2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Yasmin Pires Moneiro 
+- Estou estudando na plataforma [alura](https://cursos.alura.com.br/edutech) 
+- Estou apredendo a linguagem de progamação na plataforma [Scratch](https://scratch.mit.edu/)
+- utilizo esse espaço para organizar e compartilhar os meus projetos 
 
-Here are some ideas to get you started:
+## Vocẽ pode entrar em contato pelo 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
